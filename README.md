@@ -18,5 +18,5 @@ Totally, 16753 records with Grade A, 1354 records with Grade B, and 560 records 
 Applied data resampling (**SMOTE+ENN / SMOTE+Tomek**)
 
 ### Methodology:
-Conducted **MultiLable Classification (Grade A, B, C)** and **Binary Classification (A, Not A)** in MultiLayer Perceptron Model <br>
+Conducted **Multiclass (Grade A, B, C)** and **Binary Classification (A, Not A)** in MultiLayer Perceptron Model <br>
 Experiments with dropout unit from 0.2 to 0.5
